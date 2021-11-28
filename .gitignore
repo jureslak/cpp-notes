@@ -1,3 +1,10 @@
+# Python
+venv3/
+
+# Sphinx
+notes/build/
+notes/source/dump/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
